@@ -6,3 +6,5 @@
   *  4 files are plotted,  using 3 different lines for comparison, one in the blue range, one central and one from the red end. A line is put over both object fibre (left) and sky fibre (right), and counts for all 4 data sets are plotted
   *  The lies may shift slightly, to see the maximum flux, check the exact position
   *  I will change it to the sum of the three maximum pixel values in the future
+
+#### The last blocks are for testing things!!!
