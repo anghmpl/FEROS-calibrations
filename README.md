@@ -8,3 +8,6 @@
   *  I will change it to the sum of the three maximum pixel values in the future
 
 #### The last blocks are for testing things!!!
++ **$${\color{red}22.05.2026:}$$**
+    * corrected an error in the first 2 rows, used more than just one row of pixels, now only 1 is used for all 4 dates
+    * the sum of the three maximum pixel values is not done yet
