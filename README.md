@@ -14,5 +14,5 @@
 
 
 + **$${\color{red}08.09.2026:}$$**
-* FF\_input.lst and WAVE\_select.lst are examples of the input files. The first one needs 12 images; the second one needs 4 images.
-* For wavelength calibrations, 4 lines are selected. Along a specified line, the flux values for 5 pixels [line-2:line+3] are obtained, and the 2 highest values are averaged. So, even if the line is not on the highest value, the 2 pixels with the highest flux are still selected.
+    * FF\_input.lst and WAVE\_select.lst are examples of the input files. The first one needs 12 images; the second one needs 4 images.
+    * For wavelength calibrations, 4 lines are selected. Along a specified line, the flux values for 5 pixels [line-2:line+3] are obtained, and the 2 highest values are averaged. So, even if the line is not on the highest value, the 2 pixels with the highest flux are still selected.
