@@ -22,4 +22,8 @@
 
 + **$${\color{red}28.10.2026:}$$**
    * WAVE\_select.lst now also contains the RMS results and adds them to the plots.
+ 
+ <img width="4625" height="6869" alt="wave_comparison_2026-10-28_a" src="https://github.com/user-attachments/assets/9f814049-f120-4c85-b7ad-864d129327e7" />
+
+
 
